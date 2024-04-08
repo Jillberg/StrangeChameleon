@@ -1,4 +1,4 @@
-repository "arbitraryPlatformer@firstaim@cloud.cn"
+repository "arbitraryPlatformer@jillordeal@cloud.cn"
   path "/"
     br "/main"
     co "/main"
